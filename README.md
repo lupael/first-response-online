@@ -1,7 +1,7 @@
 # FIRST RESPONSE ONLINE
 
 First Response Online is a communication and collaboration platform built to support first responders. It lets police officers, fire fighters, and paramedics share critical data with each other in near real-time. It supports Android, iPad, and PC and integrates with computer aided dispatch and GPS tracking. Units in the field can update their status, complete traffic stops, and even query state & federal databases all without using the radio.
-First Response Online is powered by Azure. In order to build a business that handles major life-threating incidents, they not only rely on Azure’s proven scalability and availability but also its breadth of features to get to market quickly. By using services like App Service, Azure SQL, CosmosDB & Azure Search, First Response Online can instead focus on empowering first responders instead of maintaining infrastructure.
+First Response Online has been successful tested at Azure.(By using services like App Service, Azure SQL, CosmosDB & Azure Search, First Response Online can instead focus on empowering first responders instead of maintaining infrastructure.)
 
 Follow the [deployment instructions](Deploy/Deploy.md) to get you started.
 
@@ -44,7 +44,7 @@ The app targets **three** platforms:
     * UWP supported only in Visual Studio, not Xamarin Studio
 
 
-As of 13/01/2017, FRO features **79.9% code share** (19.9% iOS / 21.7% Android / 19.6% Windows).
+As of 20/04/2021, FRO features **79.9% code share** (19.9% iOS / 21.7% Android / 19.6% Windows).
 
 ## Licenses
 
@@ -83,4 +83,4 @@ The app has the following screens:
 If you see build issues when pulling updates from the repo, try cleaning and rebuilding the solution.
 
 ## Contributing
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+If you want to contribute please contact [support@i4e.com.bd](mailto:support@i4e.com.bd) with any additional questions or comments.
